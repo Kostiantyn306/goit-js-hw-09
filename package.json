@@ -1,7 +1,7 @@
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
-  "description": "",
+  "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
   "homepage": "https://Kostiantyn306.github.io/-goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
@@ -29,4 +29,5 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
+ 
 }
